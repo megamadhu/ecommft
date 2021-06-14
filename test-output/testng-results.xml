@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-05-28T05:07:44Z" name="Suite" finished-at="2021-05-28T05:07:58Z" duration-ms="14296">
+    <groups>
+    </groups>
+    <test started-at="2021-05-28T05:07:44Z" name="Test" finished-at="2021-05-28T05:07:58Z" duration-ms="14296">
+      <class name="SeleniumTest.NewTest">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:SeleniumTest.NewTest@65e98b1c]" started-at="2021-05-28T10:37:44Z" name="beforeClass" finished-at="2021-05-28T10:37:50Z" duration-ms="6830" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="homePage()[pri:0, instance:SeleniumTest.NewTest@65e98b1c]" started-at="2021-05-28T10:37:50Z" name="homePage" finished-at="2021-05-28T10:37:53Z" duration-ms="2328" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homePage -->
+        <test-method signature="signUp()[pri:0, instance:SeleniumTest.NewTest@65e98b1c]" started-at="2021-05-28T10:37:53Z" name="signUp" finished-at="2021-05-28T10:37:53Z" duration-ms="505" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signUp -->
+        <test-method signature="signIn()[pri:0, instance:SeleniumTest.NewTest@65e98b1c]" started-at="2021-05-28T10:37:53Z" name="signIn" finished-at="2021-05-28T10:37:54Z" duration-ms="324" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signIn -->
+        <test-method signature="editProfile()[pri:0, instance:SeleniumTest.NewTest@65e98b1c]" started-at="2021-05-28T10:37:54Z" name="editProfile" finished-at="2021-05-28T10:37:54Z" duration-ms="361" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- editProfile -->
+        <test-method signature="signOut()[pri:0, instance:SeleniumTest.NewTest@65e98b1c]" started-at="2021-05-28T10:37:54Z" name="signOut" finished-at="2021-05-28T10:37:54Z" duration-ms="152" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signOut -->
+        <test-method signature="signUpValidate()[pri:0, instance:SeleniumTest.NewTest@65e98b1c]" started-at="2021-05-28T10:37:54Z" name="signUpValidate" finished-at="2021-05-28T10:37:55Z" duration-ms="520" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signUpValidate -->
+        <test-method signature="signInAgain()[pri:0, instance:SeleniumTest.NewTest@65e98b1c]" started-at="2021-05-28T10:37:55Z" name="signInAgain" finished-at="2021-05-28T10:37:55Z" duration-ms="457" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signInAgain -->
+        <test-method signature="addProduct()[pri:0, instance:SeleniumTest.NewTest@65e98b1c]" started-at="2021-05-28T10:37:55Z" name="addProduct" finished-at="2021-05-28T10:37:56Z" duration-ms="584" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addProduct -->
+        <test-method signature="EditProductDetails()[pri:0, instance:SeleniumTest.NewTest@65e98b1c]" started-at="2021-05-28T10:37:56Z" name="EditProductDetails" finished-at="2021-05-28T10:37:56Z" duration-ms="542" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EditProductDetails -->
+        <test-method signature="DeleteProductDetails()[pri:0, instance:SeleniumTest.NewTest@65e98b1c]" started-at="2021-05-28T10:37:56Z" name="DeleteProductDetails" finished-at="2021-05-28T10:37:56Z" duration-ms="244" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DeleteProductDetails -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:SeleniumTest.NewTest@65e98b1c]" started-at="2021-05-28T10:37:56Z" name="afterClass" finished-at="2021-05-28T10:37:58Z" duration-ms="1394" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- SeleniumTest.NewTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
